@@ -1,0 +1,31 @@
+h1 {
+  font-family: Georgia;
+}
+
+h4 {
+  font-family: Georgia;
+  font-style: bold;
+  margin-bottom: 0;
+  color: Crimson;
+}
+
+ul, ol {
+  margin-top: 0;
+}
+body{
+  background-color:Burlywood;
+}
+
+.copyright {
+  font-family: Georgia;
+  font-size: 9px;
+  font-style: italic;
+}
+.blue-highlight{
+  border-radius:20px;
+  background-color:deepskyblue;
+}
+.green-highlight{
+  border-radius: 20px;
+  background-color:lawngreen;
+}
